@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Ceylan</h1>
 <h3 align="center">Jr. Full Stack Developer</h3>
 
