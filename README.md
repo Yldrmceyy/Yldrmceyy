@@ -4,10 +4,10 @@
 <h3 align="center">Jr. Full Stack Developer</h3>
 
 - 🔭 I’m currently working on **Patika+ Full Stack Developer Program**
-
 - 🌱 I’m currently learning **Full-Stack Web Development**
-
+- 👩🏽 About me *I was an urban planner and currently I aim to become a Full Stack developer.*
 - ⚡ Fun fact **I love kickboxing🥊**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
