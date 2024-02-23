@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ceylan</h1>
+<h1 align="center">Hi 👋 I'm Ceylan</h1>
 <h3 align="center">Jr. Full Stack Developer</h3>
 
 - 🔭 I’m currently working on **Patika+ Full Stack Developer Program**
