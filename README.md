@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on **Patika+ Full Stack Developer Program**
 - 🌱 I’m currently learning **Full-Stack Web Development**
 - 👩🏽 About me **I was an urban planner and currently I aim to become a Full Stack developer.**
+- 📫 How to reach me  [LinkedIn](https://www.linkedin.com/in/ceylanyildirim/).
 - ⚡ Fun fact **I love kickboxing🥊**
   
 
