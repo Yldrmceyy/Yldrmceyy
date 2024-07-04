@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋 I'm Ceylan</h1>
 <h3 align="center">Jr. Full Stack Developer</h3>
-
-- 🔭 I’m currently working on **Full-Stack Web Development**
-- 🌱 I’m currently learning **Full-Stack Web Development**
-- 👩🏽 About me **I was an urban planner and currently I aim to become a Full Stack developer.**
-- 👩‍💻 All of my projects are available at my [GitHub profile.](https://github.com/Yldrmceyy/Yldrmceyy)
-- ⚡ Fun fact **I love kickboxing🥊**
   
 
 <h3 align="left">Connect with me:</h3>
